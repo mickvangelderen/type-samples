@@ -1,0 +1,28 @@
+{
+  "name": "type-samples",
+  "version": "0.1.0",
+  "description": "Samples for all data types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mickvangelderen/type-samples.git"
+  },
+  "keywords": [
+    "example",
+    "sample",
+    "data",
+    "type",
+    "kind",
+    "unit",
+    "test"
+  ],
+  "author": "Mick van Gelderen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickvangelderen/type-samples/issues"
+  },
+  "homepage": "https://github.com/mickvangelderen/type-samples"
+}
